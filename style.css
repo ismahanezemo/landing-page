@@ -104,27 +104,56 @@ img{
     margin: 30px;
 }
 
+.title{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
 .subtext{
     min-width: 100;
 }
 
 .quote{
-    background-color: lightgrey;
-    height: 100;
+    background-color: #e5e7eb;
+    font-size: 36px;
+    color: #1F2937;
+    height: 300;
+    font-style: italic;
     display: flex;
     justify-content: center;
     align-items: center;
 
 }
 
+.action{
+    display: flex;
+    justify-content: center;
+}
+
 .call{
     display: flex;
-    flex-direction: column;
-    width:500;
-    height: 100;
-    background-color: royalblue;
+    flex-direction: row;
+    justify-content: space-between;
+    width:600;
+    height:100;
+    background-color: #3882F6;
     margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
     
+}
+
+.sign{
+    cursor: pointer;
+    padding: 5px 18px;
+    border-radius: 8px;
+    background: royalblue;
+    border: 1px solid royalblue;
+    color: white;
+    
+    
+
 }
 
 
