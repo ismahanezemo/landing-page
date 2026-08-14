@@ -108,6 +108,8 @@ img{
 .info-image{
     width: 150px;
     height: 150px;
+    border: 2px solid royalblue ;
+    border-radius: 12px;
 }
 
 .container{
