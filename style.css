@@ -71,8 +71,8 @@ a{
 }
 
 .left{
-    width: 400;
-    height: 200;
+    width: 400px;
+    height: 200px;
 }
  
 button{
@@ -138,7 +138,7 @@ img{
     background-color: #e5e7eb;
     font-size: 36px;
     color: #1F2937;
-    height: 400;
+    height: 400px;
     font-style: italic;
     display: flex;
     justify-content: center;
@@ -158,8 +158,8 @@ img{
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    width:800;
-    height:100;
+    width:800px;
+    height:100px;
     background-color: #3882F6;
     margin-bottom: 80px;
     
