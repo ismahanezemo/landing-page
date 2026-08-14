@@ -65,8 +65,9 @@ a{
 .section{
     background-color: #1F2937;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     padding: 50px;
+    
 }
 
 .left{
@@ -95,6 +96,16 @@ button{
 }
 
 img{
+    display: block;
+    
+}
+
+.hero-image{
+    width: 500px;
+    height: 200px;
+}
+
+.info-image{
     width: 150px;
     height: 150px;
 }
