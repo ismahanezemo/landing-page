@@ -70,6 +70,13 @@ a{
     justify-content: space-evenly;
     padding: 50px;
     
+    
+}
+
+.section{
+    background-image: url("./images/ibackg.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
 .left{
