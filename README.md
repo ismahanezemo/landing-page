@@ -2,7 +2,7 @@
 a landing page built as part of [The Odin Project's Foundations course](https://www.theodinproject.com/lessons/foundations-landing-page).
 Built using Flexbox for Layout, with custom restaurant theme instead of the default exercise content.
 
-## Screeshots
+## Screenshots
 ![Hero section](screenshots/screenshot1.PNG)
 ![info section](screenshots/screenshot%202.PNG)
 
