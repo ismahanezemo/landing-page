@@ -32,7 +32,7 @@ a{
     position: sticky;
     top: 0;
     display: flex;
-    background-color:#1F2937 ;
+    background: #2c1b14; 
     justify-content: space-around;
     align-items: center;
     padding-bottom: 15px;
@@ -48,9 +48,13 @@ a{
     color: #F9FAF8;
 }
 
+em{
+    color: #e8b04b;
+}
+
 
 .footer{
-    background-color: #1F2937;
+    background-color: #2c1b14;
     color: #F9FAF8;
     display: flex;
     justify-content: center;
@@ -120,7 +124,7 @@ img{
 .info-image{
     width: 150px;
     height: 150px;
-    border: 2px solid royalblue ;
+    border: 2px solid #d97d45 ;
     border-radius: 12px;
 }
 
@@ -135,7 +139,7 @@ img{
 
 .title{
     font-size: 36px;
-    color: #1F2937;
+    color: #2c1b14;
     font-weight: 900;
     margin-bottom: 32px;
     
